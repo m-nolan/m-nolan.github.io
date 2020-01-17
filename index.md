@@ -1,5 +1,3 @@
 # Computational Neuroscience + ML @ UW
 
-Electrical and computer engineering PhD student at the University of Washington.
-
-\////\
+Michael Nolan, PhD student at the University of Washington.
