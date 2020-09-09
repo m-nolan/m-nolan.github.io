@@ -11,26 +11,11 @@ jupyter:
     name: python_defaultSpec_1599612019232
 ---
 
-# Rethinking data access: ECoG signal analysis over many, many files (Pt. I: DataFile class)
+# ML Signal analysis over many, many files (Pt. I: DataFile class)
 
 Michael Nolan
 
 2020.09.04.1948
-
-
-I intend for this to become a blog post, eventually. I'll put it up on my github.io page. Should I buy a personal domain?
-
-## Outline
-- Problem
-- Data
-    - structure
-    - Filters + Masks
-- Class structure
-    - Files
-        - Sampler
-    - Dataset
-    - Dataloader
-        - multiprocessing for parallelized batching
 
 
 ### Problem
@@ -197,7 +182,7 @@ class DataFile():
 
 That should do the trick! Let's build a tester to see how it works:
 
-```python tags=[]
+```python
 # test class instance for the first recording in the dataset:
 data_file_path = "E:\\aoLab\\Data\\WirelessData\\Goose_Multiscale_M1\\180325\\001\\rec001.LM1_ECOG_3.clfp.dat"
 datafile = DataFile(data_file_path)
@@ -217,7 +202,7 @@ It works great. I even added a nice `self.__repr__()` method to format its outpu
 
 Now let's get a sense of the read speeds. I'll repeat the `datafile.read()` call with random time points 1000 times and get some statistics on average loading time.
 
-```python tags=[]
+```python
 import time
 n_iter = 1000
 t_len = 1
