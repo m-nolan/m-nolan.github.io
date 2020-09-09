@@ -11,7 +11,7 @@ jupyter:
     name: python_defaultSpec_1599612019232
 ---
 
-# Rethinking data access: ECoG signal analysis over many, many files
+# Rethinking data access: ECoG signal analysis over many, many files (Pt. I: DataFile class)
 
 Michael Nolan
 
