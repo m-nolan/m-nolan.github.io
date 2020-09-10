@@ -196,7 +196,7 @@ plt.ylabel('amplitude ($\mu$V)')
 plt.title('Sample data segment')
 ```
 
-![](../images/20200909/ecog_sample.png?raw=true)
+![](/images/20200909/ecog_sample.png?raw=true)
 
 It works great. I even added a nice `self.__repr__()` method to format its output when passed to python's `print` function. 
 
@@ -227,7 +227,7 @@ print(f'Mean read time: {t_iter.mean():0.3E}')
 print(f'Total read time ({n_iter} reads): {t_iter.sum():0.3E}')
 ```
 
-![](../images/20200909/read_time_hist.png?raw=true)
+![histogram of ](/images/20200909/read_time_hist.png?raw=true)
 
 Neat! I'm unsure of what's causing the split distribution in read times here, but we're getting a very, very fast read speed for >80% of draws. 
 
