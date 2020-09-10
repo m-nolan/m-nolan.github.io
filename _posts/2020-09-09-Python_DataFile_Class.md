@@ -215,7 +215,7 @@ for k in range(n_iter):
 print(f'{n_iter} data pulls complete.')
 ```
 
-```python tags=[]
+```python
 plt.hist(t_iter,100,label='read times');
 plt.axvline(t_iter.mean(),color='r',label='mean')
 plt.xscale('linear')
