@@ -27,9 +27,9 @@ $$n^2 > n m + m^2 \rightarrow n^2 - nm - m^2 > 0$$
 
 Dividing both sides by $m^2$ and letting $x := \frac{n}{m}$ we get:
 
-$$\left(\frac{n}{m})\right^2 - \frac{n}{m} - 1 > 0 \rightarrow x^2 - x - 1 > 0$$
+$$\left(\frac{n}{m}\right)^2 - \frac{n}{m} - 1 > 0 \rightarrow x^2 - x - 1 > 0$$
 
-...does this look familiar? If so, good eye! I didn't see it until working through the quadratic equation for finding the roots of this inequality, but this is one form of the definition for the [**GOLDEN RATIO**](https://en.wikipedia.org/wiki/Golden_ratio)! It's an important number in a few fields, most visually in classical design and aesthetics, but it's notable among all other irrational numbers for being [the most irrational of them all](http://www.ams.org/publicoutreach/feature-column/fcarc-irrational4)! Please refer to that page for relevant figures, but know that this ratio defines a rectangle with side lengths $a, b \in R^+$ such that $b > a$ and:
+...does this look familiar? If so, good eye! I didn't see it until working through the quadratic equation to find the roots of this inequality, but this is one form of the definition for the [**GOLDEN RATIO**](https://en.wikipedia.org/wiki/Golden_ratio)! It's an important number in a few fields, most visually in classical design and aesthetics, but it's notable among irrational numbers for being [the most irrational of them all](http://www.ams.org/publicoutreach/feature-column/fcarc-irrational4)! Please refer to that page for relevant figures, but know that this ratio defines a rectangle with side lengths $a, b \in R^+$ such that $b > a$ and:
 
 $$\frac{b}{a} = \frac{b + a}{b}$$
 
