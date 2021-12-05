@@ -1,8 +1,3 @@
-layout: post
-title: "Golden Ratio in Transform Design"
-date: 2021-04-30 00:00:00
-categories:
-
 # Fun Find: Golden Ratio in Transform Design
 
 Michael Nolan
