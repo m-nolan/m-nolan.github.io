@@ -45,7 +45,7 @@ $$\frac{d}{da}S_{N-1} = \frac{d}{da}\sum_{n=1}^{\infty}n^{N-1}a^n = \sum_{n=1}^{
 Neat!
 
 For any finite value $N$, these series are convergent. I'm not going to prove that statement. 
-I'm more interested in seeing what happens as $N$ approaches infinity, i.e. $\limit_{N\xrightarrow(){}\infty}S_N$.
+I'm more interested in seeing what happens as $N$ approaches infinity, i.e. $\lim_{N\to\infty} S_N$.
 This is tough to inspect numerically due how quickly the values blow up (I'll take a crack at python's [decimal](https://docs.python.org/3/library/decimal.html) package for a possible fix here).
 
 I'm starting off by looking at the difference between successive sums. 
