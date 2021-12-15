@@ -11,7 +11,7 @@ Writing good DSP questions is tough. Time-domain problems (e.g. convolutions, fo
 
 I was writing these assignments for undergraduate engineering students taking a course that wasn't designed to stretch their brains over sequences and series material, so I narrowed that set down even further to make most every sum look like a geometric series.
 For those that don't remember, a geometric series has the following form $\sum_{n=0}^{\infty}a^n = \frac{1}{1-a}\forall a: |a|<1$.
-For example, a kindly considered fourier transform problem would look something like the above where $a = z e^{-j\omega}$ where $j=\sqrt(-1)$.
+For example, a kindly considered fourier transform problem would look something like the above where $a = z e^{-j\omega}$ where $j=\sqrt{-1}$.
 Down with $i$, long live $j$.
 
 Kindness gets boring after a while.
@@ -19,6 +19,11 @@ I threw them a few problems involving trickier summations toward the end of the 
 One example was to compute the fourier transform of a system impulse resonse function $h[n] = n b^n u[n] |b|<1$ where $u[n]$ is the discrete heaviside step function. 
 That computation looks like the following:
 $$H(\omega) = \mathcal{F}\{h[n]\} = \sum_{n=-\infty}^{\infty}h[n]e^{-j\omega n} = \sum_{n=0}^{\infty}n b^n e^{-j\omega} = \sum_{n=0}^{\infty}n\left(b e^{-j\omega}\right)^n$$
+
 The last simplification comes from knowing that $u[n]$ is 0 for all $n < 0$. Also, the $n=0$ term will be zero because of $n$.
 
-This summation now has the slightly more complicated form of $\sum_{n=1}^{\infty}n a^n$ where $a = b e^{-j\omega}$.
+This summation now has the slightly more complicated form of $\sum_{n=1}^{\infty}n a^n$ where $a = b e^{-j\omega}$. 
+(A little digging on wikipedia)[https://en.wikipedia.org/wiki/List_of_mathematical_series#Power_series] will show you that this summation converges and is equal to $\frac{a}{(1-a)^2}$. Listed below that are some interesting identities for higher-order power series and their relationship to the (polylogarithm function)[https://en.wikipedia.org/wiki/Polylogarithm]. The sequence goes as follows, again for $|a| < 1$:
+- $$\sum_{n=1}^{\infty}n^2 a^n = \frac{a(a+1)}{(1-a)^3}$$
+- $$\sum_{n=1}^{\infty}n^3 a^n = \frac{a\left(a^2 + 4a + 1\right)}{(1-a)^4}$$
+- $$\sum_{n=1}^{\infty}n^4 a^n = \frac{a\left(a^3 + 11a^2 + 11a + 1\right)}{(1-a)^5}
