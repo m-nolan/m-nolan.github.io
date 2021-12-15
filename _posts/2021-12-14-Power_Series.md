@@ -41,7 +41,7 @@ For the analysis at hand, knowing the connection is not necessary; however, know
 Digression aside, we now have a closed-form expression for the Nth term in this pattern: $S_N = \frac{1}{(1-a)^(N+1)}\sum_{k=0}^{N-1}\left\langle\begin{matrix}N & k\end{matrix}\right\rangle a^{N-k}: \left\langle\begin{matrix}N & k\end{matrix}\right\rangle = \sum{m=0}^{k+1}(-1)^m\left(\begin{matrix} N+1 & m \end{matrix}\right) (k + 1 - m)^N$. The bracketed array notation is the N-choose-kth eulerian number.
 
 For something a little prettier, each successive pair of summations are related in a nice differential equation:
-$$\frac{d}{da}S_{N-1} = \frac{d}{da}\sum_{n=1}^{\infty}n^{N-1}a^n = \sum_{n=1}^{\infty}n^{N-1}\frac{d}{da}a^n = \sum_{n=1}^{\infty}n^{N-1} n a^{n-1} = a^{-1}\sum_{n=1}^{\infty}n^Na^{n} \\ \xrightarrow{}() S_N = a \frac{d}{da} S_{N-1}$$.
+$$\frac{d}{da}S_{N-1} = \frac{d}{da}\sum_{n=1}^{\infty}n^{N-1}a^n = \sum_{n=1}^{\infty}n^{N-1}\frac{d}{da}a^n = \sum_{n=1}^{\infty}n^{N-1} n a^{n-1} = a^{-1}\sum_{n=1}^{\infty}n^Na^{n} \\ \xrightarrow{} S_N = a \frac{d}{da} S_{N-1}$$.
 Neat!
 
 For any finite value $N$, these series are convergent. I'm not going to prove that statement. 
