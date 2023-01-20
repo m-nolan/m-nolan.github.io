@@ -14,13 +14,13 @@ The data show a substantial increase in the number of recalls issued each year s
 
 ## 1. More and More Recalls are Issued Every Year
 
-![Vehicle recalls per year, all manufacturers](_images/car_recall/fig_1_total_recall_per_year.png)
+![Vehicle recalls per year, all manufacturers](images/car_recall/fig_1_total_recall_per_year.png)
 <figcaption>Vehicle recalls per year, all manufacturers.</figcaption>
 
 
 The number of recalls issued from all manufacturers in a given year has risen steadily from 1966 to 2022 from less than 100 recalls per year to greater than 900 recalls per year. A similar trend is seen in the total number of customers affected by vehicle recalls each year, with fewer than one million drivers affected in 1966 growing to a peak of over fifty million drivers in 2016.
 
-![Customers affected per year, all manufacturers](_images/car_recall/fig_2_affected_per_year.png)
+![Customers affected per year, all manufacturers](images/car_recall/fig_2_affected_per_year.png)
 <figcaption>Customers affected by recalls per year, all manufacturers.</figcaption>
 
 It makes sense that these trends correlate: more recalls, more people affected by those recalls. Normalizing the number of affected customers by the number of recalls each year, we see a pretty flat trend floating between 20 and 50 thousand people per recall per year. 
@@ -31,22 +31,22 @@ A clear exception is the massive spike in affected persons in 1981. This can be 
 
 The scale of the 1981 recall may nudge one to ask which manufacturers' vehicles were recalled the most. The bar chart shown below plots the total number of recalls from the top twenty recalled manufacturers over the 56 year span of the dataset.
 
-![Most recalled vehicle manufacturers, 1966-2022.](_images/car_recall/fig_4_recalls_per_manu.png)
+![Most recalled vehicle manufacturers, 1966-2022.](images/car_recall/fig_4_recalls_per_manu.png)
 <figcaption>Most recalled vehicle manufacturers, 1966-2022.</figcaption>
 
 The top companies here are probably pretty familiar to US drivers: GM, Ford and Chrysler (now a brand owned by the Stellantis group). A similar list appears in the distribution of drivers affected by recalls over the same period:
 
-![Customers affected per manufacturer, 1966-2022.](_images/car_recall/fig_5_affected_per_manufacturer.png)
+![Customers affected per manufacturer, 1966-2022.](images/car_recall/fig_5_affected_per_manufacturer.png)
 <figcaption>Customers affected by recalls per manufacturer, 1966-2022.</figcaption>
 
 Again, the same companies are the worst offenders: GM, Ford, Chrysler. Seeing the 1981 spike in customers affected for all manufacturers being so highly influenced by Ford alone, I thought it would be worthwhile to look at trends across time for these top three recalled manufacturers:
 
-![Recalls per year, top 3 manufacturers.](_images/car_recall/fig_6_recalls_per_year_top_manu.png)
+![Recalls per year, top 3 manufacturers.](images/car_recall/fig_6_recalls_per_year_top_manu.png)
 <figcaption>Recalls per year, top 3 recalled manufacturers.</figcaption>
 
 While the correlations between these three aren't - by inspection - all that tight, one can see a few ebbs and flows in these yearly recall rates over the past 56 years. All three spiked in the late 90's and early 2000's, all three have increased substantially in the past 10 years, and all three saw a slight bump in recalls in the three year period between '77 and '80.
 
-![Customers affected, top 3 manufacturers.](_images/car_recall/fig_7_affected_per_year_top_manu.png)
+![Customers affected, top 3 manufacturers.](images/car_recall/fig_7_affected_per_year_top_manu.png)
 <figcaption>Customers affected per year, top 3 recalled manufacturers.</figcaption>
 
 Plotting customers affected per year over the same period for these top 3 manufacturers shows a relatively low boil in total affected persons count until the mid 90's, save for the aforementioned spike for Ford in 1981. A slight bump in the late 90's dies off by the mid 2010's before slowly starting to increase up until the present day.
@@ -59,7 +59,7 @@ Despite these three companies accounting for over 40% of all vehicle recalls sin
 
 One hypothesis is that more manufacturers are submitting recalls over time. To check this idea I've plotted the number of different manufacturers recalling at least one vehicle per year.
 
-![Manufacturers reporting recalls per year, recalls per manufacturer per year, and customers affected per manufacturer per year.](_images/car_recall/fig_8_per_manu_per_year.png)
+![Manufacturers reporting recalls per year, recalls per manufacturer per year, and customers affected per manufacturer per year.](images/car_recall/fig_8_per_manu_per_year.png)
 <figcaption>Manufacturers reporting recalls per year, recalls per manufacturer per year, and customers affected per manufacturer per year.</figcaption>
 
 In this plot we see a ~10x increase in the count of recalled manufacturers that matches the pattern of increased recalls over time. This paired with the overall flat rate of recalls per year from the most recalled manufacturers implies that the growth in overall recalls per year is primarily driven by more manufacturers being forced to recall their vehicles. Normalizing the number of recalls each year by the number of manufacturers recalling vehicles in each year, we see a mostly flat trend apart from a rapid decrease in the late 60's and a notable bump starting in 2014. Affected drivers per year normalized by recalling manufacturers also shows a flat trend with a notable spike in affected customers seen in 1981, again attributable almost entirely to the Ford recall of that year.
