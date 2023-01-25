@@ -1,3 +1,3 @@
-# Computational Neuroscience + ML @ UW
+# Data Analysis Blog
 
-Michael Nolan, PhD student at the University of Washington.
+Michael Nolan, freelance data analyst and writer.

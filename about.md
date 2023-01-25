@@ -1,6 +1,6 @@
 # About
 
 ### Me
-Michael Nolan, graduate student and seattlite since 2019. I apply machine learning methods to computational neuroscience research questions. I'm currently focused on the development of dynamic network models of motor cortical function.
+Michael Nolan, freelance data analyst and writer.
 
-I'm currently co-advised by Professors [Amy Orsborn](http://faculty.washington.edu/aorsborn/) and [Eli Shlizerman](https://faculty.washington.edu/shlizee/) in the Electrical and Computer Engineering department at the University of Washington.
+I was formerly a graduate student in the Electrical and Computer Engineering department at the University of Washington. I was co-advised by Professors [Amy Orsborn](http://faculty.washington.edu/aorsborn/) and [Eli Shlizerman](https://faculty.washington.edu/shlizee/).
