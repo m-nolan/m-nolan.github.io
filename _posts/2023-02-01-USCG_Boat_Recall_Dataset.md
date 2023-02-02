@@ -11,6 +11,6 @@ They also don't make the data available in a single structured format.
 Looking to get some practice in, I saw this as a good opportunity to teach myself how to scrape websites for tabular data.
 Using the table scraping features built into the `pandas` package in python, I wrote a simple script to collect the boat recall data into a single CSV table.
 
-The script and table can be found at the following github repo, along with documentation describing each column in the table: https://github.com/m-nolan/USCG_Boat_Recalls
+The script and table can be found at the following github repo, along with documentation describing each column in the table: [https://github.com/m-nolan/USCG_Boat_Recalls](https://github.com/m-nolan/USCG_Boat_Recalls)
 
 Also, lots of thanks to Jeremy for shouting me out in the most recent newsletter edition.
