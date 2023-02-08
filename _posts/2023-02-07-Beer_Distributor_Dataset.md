@@ -1,4 +1,3 @@
-2023-02-07-Beer_Distributor_Dataset.md
 # North American Beer Distributor Dataset
 
 Looking around for information about beer and alcohol distribution in the United States, i.e. the business of getting hooch from where it's made to where it's sold, I found myself looking at the very useful and well-curated list of North American distributors found here: [https://www.findmeabrewery.com/distributors/](https://www.findmeabrewery.com/distributors/). The website also has lots of useful reference lists containing information about breweries and beer events throughout the USA and Canada.
