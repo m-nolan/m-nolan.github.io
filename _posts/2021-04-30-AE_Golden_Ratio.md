@@ -2,8 +2,6 @@
 
 Michael Nolan
 
-2021.04.29
-
 A lot of my research uses a machine learning architecture called an [autoencoder](https://en.wikipedia.org/wiki/Autoencoder), which is a pair of neural network modules called an *encoder* and *decoder* which seek to transform an input sample back to itself. This might seem silly at first glance, but the reason for using this kind of model is that one can develop useful embedded representations of their data in the space between the encoder and decoder. This is known as the *embedded* or *latent* space of an autoencoder model. This can be used for a number of applications, and I recommend you take a look at the wikipedia article I linked to above to learn more about them. Two common use cases are (1) to find a nonlinear dimensionality reduction of the model akin to a more expressive PCA and (2) to embed in a higher dimensional space to enable untangling and koopman-esque representation of complex data distributions. My work makes use of the latter to reconstruct brain wave recordings, but this model type works on a wide range of data types. It's an impressive and flexible unsupervised machine learning technique and one of my favorite bits of mathematical machinery.
 
 When designing an autoencoder, it's important to choose the right size embedded dimension. The number of dimensions modeled in the model's latent space can add up to important reconstruction objective boosts, but come at a cost of increased parameter counts and larger memory footprints. This tradeoff makes optimizing the sizes of the embedded spaces in your machine learning models a matter of both performance and practicality. Playing around with this kind of problem, I found a nice simple example of this very practical problem with a very pretty solution.

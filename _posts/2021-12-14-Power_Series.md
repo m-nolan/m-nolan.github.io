@@ -2,8 +2,6 @@
 
 Michael Nolan
 
-2021.12.14
-
 This past quarter I was a teaching assistant for an undergraduate signal processing class. 
 The course covered discrete and continuous time signal processing theory. 
 I was tasked with writing homework assignments for the students.

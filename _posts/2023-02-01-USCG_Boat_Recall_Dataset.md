@@ -1,6 +1,6 @@
 # USCG Boat and Watercraft Recall dataset
 
-2023-02-01
+Michael Nolan
 
 ## A web scraping exercise
 A few weeks ago, I noticed a call to action in Jeremy Singer-Vine's great newsletter [Data is Plural](https://www.data-is-plural.com/).
