@@ -68,7 +68,7 @@ Work with significant data reporting aspects is indicated with a trailing asteri
 * 2023-11-24: [Butterfly-Eyed Sensors Capture UV Images](https://spectrum.ieee.org/biomemetics-butterfly-uv-sensor)  
 * 2023-11-29: [Spinal Stimulator’s Gentle Zaps Help Treat Parkinson’s](https://spectrum.ieee.org/parkinsons-disease)  
 * 2023-09-05: [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)  
-  * Author Q\&A discussing Doctorow’s book [*The Internet Con*](https://www.versobooks.com/products/3035-the-internet-con)  
+  * Author Q&A discussing Doctorow’s book [*The Internet Con*](https://www.versobooks.com/products/3035-the-internet-con)  
 * 2023-08-26: [This AI Can Tell What You’re Typing Based on the Sound](https://spectrum.ieee.org/side-channel-attack)  
 * 2023-08-24: [Record Broken: Decoding Words From Brain Signals](https://spectrum.ieee.org/brain-implant-speech)  
 * 2023-08-18: [Neurotech Overhears Songs from Listeners’ Brainwaves](https://spectrum.ieee.org/mind-reading-neurotech-overhears-songs)  
@@ -83,7 +83,7 @@ Work with significant data reporting aspects is indicated with a trailing asteri
 * 2023-04-19: [DIY Neurotech: Making BCI Accessible](https://spectrum.ieee.org/neurotechnology-diy)  
 * 2023-04-02: [Neuralink’s FDA Troubles Are Just the Beginning](https://spectrum.ieee.org/neuralink-seeks-fda-approval)  
 * 2023-03-28: [Neurotech’s Battles Impact Our Brains’ Future](https://spectrum.ieee.org/neurotechnology-battle-for-your-brain)  
-  * Author Q\&A with Nita Farahany discussing her book *The Battle For Your Brain*
+  * Author Q&A with Nita Farahany discussing her book *The Battle For Your Brain*
 
 ### Simons Center {#articles-simonscenter}
 
@@ -97,7 +97,7 @@ I contributed background researching to the following articles as an investigati
 * 2026-10-08: [Complaint accuses Cass County sheriff of inappropriately sharing nude photos, video](https://www.kaxe.org/local-news/2026-10-08/complaint-investigation-cass-county-mn-sheriff-welk-nude-photos-video) (KAXE)  
 * 2026-09-26: [We finally have David Flippo's financial disclosure. Here's what we found.](https://thenevadaindependent.com/article/we-finally-have-david-flippos-financial-disclosure-heres-what-we-found) (Nevada Independent)  
 * 2026-09-18: [How transparent is New Hampshire?](http://concordmonitor.com/2026/09/18/how-transparent-is-new-hampshire/) (Concord Monitor)  
-* 2026-08-25: [\$4K rent? \$7 gas? Inside the internet campaign insisting Green Bay is ‘more expensive than NYC’](https://wisconsinwatch.org/2026/08/wisconsin-green-bay-tiktok-internet-campaign-more-expensive-than-nyc-influencers-user-generated-content/) (Wisconsin Watch)  
+* 2026-08-25: [$4K rent? $7 gas? Inside the internet campaign insisting Green Bay is "more expensive than NYC"](https://wisconsinwatch.org/2026/08/wisconsin-green-bay-tiktok-internet-campaign-more-expensive-than-nyc-influencers-user-generated-content/) (Wisconsin Watch)  
 * 2026-08-07: [Outside groups fuel bitter Senate race between Peggy Flanagan and Angie Craig](https://www.minnpost.com/elections/2026/08/outside-groups-fuel-bitter-senate-race-between-peggy-flanagan-and-angie-craig/) (MinnPost)  
 * 2026-08-01: [Urban Candidates Pivot to Rural Voters After Tennessee Redistricting](https://barnraisingmedia.com/2026-election-urban-candidates-pivot-to-rural-voters-after-tennessee-redistricting/) (Barn Raiser)  
 * 2026-07-31: [From Tehran to Texas: How a Convicted Iranian Pyramid Scheme Ringleader Built a New Life in the U.S.](https://www.occrp.org/en/investigation/from-tehran-to-texas-how-a-convicted-iranian-pyramid-scheme-ringleader-built-a-new-life-in-the-us) (OCCRP, Texas Observer)  
