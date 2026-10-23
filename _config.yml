@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: M. Nolan Research Blog
-description: Poking at Data for Fun
+title: Michael Nolan
+description: Portfolio
 github_username: m-nolan
 
 # Email and twitter are optional:
-email: manolan@uw.edu
-twitter_username: 
+email: michaelnolan205@gmail.com
+twitter_username: @zakimfridge
 
 # Set this to true to get LaTeX math equation support
 use_math: True
