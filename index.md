@@ -1,14 +1,27 @@
+
+
 # Portfolio
+
+## Highlights {#highlights}
+
+* [From Tehran to Texas: How a Convicted Iranian Pyramid Scheme Ringleader Built a New Life in the U.S.](https://www.occrp.org/en/investigation/from-tehran-to-texas-how-a-convicted-iranian-pyramid-scheme-ringleader-built-a-new-life-in-the-us) (OCCRP, Texas Observer - 2026-07-31)  
+    - Provided background research on Mahan and Sheyda tracking their arrival in California and Mahan's academic work at UT Dallas
+* [Lummis family could cash in on Microsoft data center expansion through Cheyenne land sales](https://wyofile.com/lummis-family-could-cash-in-on-microsoft-data-center-expansion-through-cheyenne-land-sales/) (WyoFile - 2026-05-29)  
+    - Created property maps using [parcel GIS data from Laramie and Albany County](https://maps.terragis.net/), provided campaign finance analysis and backgrounded Lummis' family property holding companies.
+* [Former Google CEO's links to secretive company seeking explosive testing near Burning Man](https://thenevadaindependent.com/article/former-google-ceos-links-to-secretive-company-seeking-explosive-testing-near-burning-man) (Nevada Independent - 2026-02-13)  
+    - Backgrounded the landholding LLCs and reviewed county permit applications, created the diagram of the Project Eagle drone development network (e.g. Swift Beat, Aurelian Industries) and discovered the corporate connection to Schmidt's cousin James Burdette Parker.
+* [The Minnesota DFL’s massive, behind-the-scenes political fundraising network explained](https://www.minnpost.com/elections/2024/10/the-minnesota-dfls-massive-behind-the-scenes-political-fundraising-network-explained/) (MinnPost - 2024-10-03)
+    - Custom d3 interactive network diagram illustrating the structure of Minnesota state campaign finance flows during the 2024 election.
 
 ## Articles {#articles}
 
 Work with significant data reporting aspects is indicated with a trailing asterisk (\*)
 
-### HellGate
+### HellGate {#articles-hellgate}
 
 * 2026-06-26: [Meet the Tree-Counting Juggernaut of New York City](https://hellgatenyc.com/the-tree-counting-juggernaut-of-nyc/)\*
 
-### MinnPost
+### MinnPost {#articles-minnpost}
 
 * 2025-03-31: [How much federal money flows into Minnesota for health care, education, agriculture?](https://www.minnpost.com/state-government/2025/03/how-much-federal-money-flows-into-minnesota-for-health-care-education-agriculture/)\*  
 * 2025-03-19: [Unpacking DOGE’s plan to cut 14 federal office leases across Minnesota](https://www.minnpost.com/national/2025/03/unpacking-doges-plan-to-cut-14-federal-office-leases-across-minnesota/)\*  
@@ -38,11 +51,11 @@ Work with significant data reporting aspects is indicated with a trailing asteri
 * 2024-08-23: [Minnesota individual donations to Harris campaign surged after Biden dropped out](https://www.minnpost.com/elections/2024/08/individual-donations-from-minnesotans-to-harris-campaign-surged-after-biden-dropped-out-no-such-spike-for-trump/)\*  
 * 2024-08-15: [How public safety attitudes, different campaigning changed the Omar-Samuels standoff](https://www.minnpost.com/elections/2024/08/how-public-safety-attitudes-different-campaigning-changed-the-omar-samuels-standoff/)\*
 
-### STAT
+### STAT {#articles-stat}
 
 * 2024-09-18: [Inside the quiet strategy pharma giants are using to fend off generics and drive up the cost of medicines](https://www.statnews.com/pharmalot/2024/09/18/pharmaceuticals-prescription-drug-patents-prices-orange-book/)\*
 
-### IEEE Spectrum
+### IEEE Spectrum {#articles-ieeespectrum}
 
 * 2024-03-23: [Elastic Patch Tech Helps Vocally Impaired Speak](https://spectrum.ieee.org/assistive-tech-voice-patch)  
 * 2024-03-22: [Exosuit Muscle Control Steps Closer to Reality](https://spectrum.ieee.org/functional-electrical-stimulation-exosuit-project)  
@@ -72,7 +85,7 @@ Work with significant data reporting aspects is indicated with a trailing asteri
 * 2023-03-28: [Neurotech’s Battles Impact Our Brains’ Future](https://spectrum.ieee.org/neurotechnology-battle-for-your-brain)  
   * Author Q\&A with Nita Farahany discussing her book *The Battle For Your Brain*
 
-### Simons Center
+### Simons Center {#articles-simonscenter}
 
 * 2022-09-19: [Jellyfish and Polyps Offer New Insight Into How Groups of Neurons Coordinate Behavior](https://www.simonsfoundation.org/news/jellyfish-and-polyps-offer-new-insight-into-how-groups-of-neurons-coordinate-behavior/)
 
