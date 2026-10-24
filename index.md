@@ -1,4 +1,4 @@
-
+![Selfie of Michael kayaking in the Adirondacks in 2023](./assets/images/kayak-photo.jpg){ width="600" style="display: block; margin: 0 auto" }
 
 # Portfolio
 
@@ -15,7 +15,7 @@
 
 ## Articles {#articles}
 
-Work with significant data reporting aspects is indicated with a trailing asterisk (\*)
+Asterisks (\*) indicate articles with significant data reporting aspects.
 
 ### HellGate {#articles-hellgate}
 
