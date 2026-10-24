@@ -1,4 +1,6 @@
-# About me
+# About
+
+![Selfie of Michael kayaking in the Adirondacks in 2023](./assets/images/kayak-photo.jpg)
 
 ## Michael Nolan
 Data Journalist, Investigative Reporter
