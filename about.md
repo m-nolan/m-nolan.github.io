@@ -1,7 +1,12 @@
 # About
 
 <!-- ![Selfie of Michael kayaking in the Adirondacks in 2023](./assets/images/kayak-photo.jpg) -->
-<img src="./assets/images/kayak-photo.jpg" style="width:500px;" alt="Selfie of Michael kayaking in the Adirondacks circa 2023.">
+<div style="text-align: center">
+    <img src="./assets/images/kayak-photo.jpg" 
+        style="width:500px;" 
+        alt="Selfie of Michael kayaking in the Adirondacks circa 2023."
+    >
+</div>
 
 ## Michael Nolan
 Data Journalist, Investigative Reporter
