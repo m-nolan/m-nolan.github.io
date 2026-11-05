@@ -91,6 +91,7 @@ Asterisks (\*) indicate articles with significant data reporting aspects.
 
 I contributed background researching to the following articles as an investigative journalist at MuckRock’s [Sunlight Research Desk](https://www.sunlightresearch.net/our-work), a resource providing in-depth public records research and data analysis to small and independent U.S. newsrooms.
 
+* 2026-11-05: [Manufactured consent: Paid social media posters are being recruited to promote Wisconsin data center](https://wisconsinwatch.org/2026/11/wisconsin-data-center-paid-social-media-posters-recruited-to-promote-port-washington/) (Wisconsin Watch)
 * 2026-10-14: [The \$3B candidate: Unpacking Rick Jackson’s vast business empire](https://www.ajc.com/politics/2026/10/here-is-how-rick-jackson-made-his-fortune/) (Atlanta Journal-Constitution)  
 * 2026-10-08: [Complaint accuses Cass County sheriff of inappropriately sharing nude photos, video](https://www.kaxe.org/local-news/2026-10-08/complaint-investigation-cass-county-mn-sheriff-welk-nude-photos-video) (KAXE)  
 * 2026-09-26: [We finally have David Flippo's financial disclosure. Here's what we found.](https://thenevadaindependent.com/article/we-finally-have-david-flippos-financial-disclosure-heres-what-we-found) (Nevada Independent)  
